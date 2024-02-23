@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T13:09:09 IST" name="Default suite" finished-at="2024-02-23T13:13:48 IST" duration-ms="278397">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T13:09:09 IST" name="Default test" finished-at="2024-02-23T13:13:48 IST" duration-ms="278397">
+      <class name="entrata.NewTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:09:09 IST" name="launchBrowser" finished-at="2024-02-23T13:10:00 IST" duration-ms="50946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_baseCamp_registration()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:10:00 IST" name="validate_baseCamp_registration" finished-at="2024-02-23T13:10:32 IST" duration-ms="31856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_baseCamp_registration -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:10:32 IST" name="terminateBrowser" finished-at="2024-02-23T13:10:32 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:10:32 IST" name="launchBrowser" finished-at="2024-02-23T13:11:04 IST" duration-ms="32031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_doItAllWithEntrata_Tiles()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:11:04 IST" name="validate_doItAllWithEntrata_Tiles" finished-at="2024-02-23T13:11:21 IST" duration-ms="16467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_doItAllWithEntrata_Tiles -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:11:21 IST" name="terminateBrowser" finished-at="2024-02-23T13:11:21 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:11:21 IST" name="launchBrowser" finished-at="2024-02-23T13:12:24 IST" duration-ms="63340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_error_on_PropertyManagerLoginPage()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:12:24 IST" name="validate_error_on_PropertyManagerLoginPage" finished-at="2024-02-23T13:12:51 IST" duration-ms="26780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_error_on_PropertyManagerLoginPage -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:12:51 IST" name="terminateBrowser" finished-at="2024-02-23T13:12:51 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:12:51 IST" name="launchBrowser" finished-at="2024-02-23T13:13:34 IST" duration-ms="42761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_solutions_list()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:13:34 IST" name="validate_solutions_list" finished-at="2024-02-23T13:13:48 IST" duration-ms="13658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_solutions_list -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:entrata.NewTest@fa49800]" started-at="2024-02-23T13:13:48 IST" name="terminateBrowser" finished-at="2024-02-23T13:13:48 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- entrata.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
